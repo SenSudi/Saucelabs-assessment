@@ -1,0 +1,89 @@
+org_id,Date,region_id_cnt,resource_cnt_x,user_id_cnt,credits_consumed_sum,resource_cnt_y,region_cnt
+1a041c6e6cd2427c8c20c82a091e9882,2022-06-02,1,1,1,2920,{'linux_virtual_machine': 2920},{'us-west4': 2920}
+1a041c6e6cd2427c8c20c82a091e9882,2022-06-03,1,1,1,2096,{'linux_virtual_machine': 2096},{'us-west4': 2096}
+1a041c6e6cd2427c8c20c82a091e988211,2022-06-02,1,1,1,2920,{'linux_virtual_machine': 2920},{'europe-west3': 2920}
+1a041c6e6cd2427c8c20c82a091e988211,2022-06-03,1,1,1,2096,{'linux_virtual_machine': 2096},{'europe-west3': 2096}
+1b1e798cdcf64f8887620884390e21a1,2022-06-02,1,2,1,26230,"{'mac_virtual_machine': 13674, 'windows_virtual_machine': 12556}",{'us-west4': 26230}
+1b1e798cdcf64f8887620884390e21a1,2022-06-03,1,2,1,25880,"{'mac_virtual_machine': 14002, 'windows_virtual_machine': 11878}",{'us-west4': 25880}
+1b1e798cdcf64f8887620884390e21a111,2022-06-02,1,2,1,26230,"{'mac_virtual_machine': 13674, 'windows_virtual_machine': 12556}",{'europe-west3': 26230}
+1b1e798cdcf64f8887620884390e21a111,2022-06-03,1,2,1,25880,"{'mac_virtual_machine': 14002, 'windows_virtual_machine': 11878}",{'europe-west3': 25880}
+24fa9cc4e406459d9d35523f4af824a5,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'us-west4': 18}
+24fa9cc4e406459d9d35523f4af824a511,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'europe-west3': 18}
+27792baaf604485dad5e677d1f99fb42,2022-06-03,1,1,1,118,{'windows_virtual_machine': 118},{'us-west4': 118}
+27792baaf604485dad5e677d1f99fb4211,2022-06-03,1,1,1,118,{'windows_virtual_machine': 118},{'europe-west3': 118}
+3701320bb1294d37ac1320abb57b27ca,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'us-west4': 18}
+3701320bb1294d37ac1320abb57b27ca11,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'europe-west3': 18}
+421ab9aeef2244cea704bf676248af01,2022-06-02,1,1,1,28,{'windows_virtual_machine': 28},{'us-west4': 28}
+421ab9aeef2244cea704bf676248af01,2022-06-03,1,1,1,180,{'windows_virtual_machine': 180},{'us-west4': 180}
+421ab9aeef2244cea704bf676248af0111,2022-06-02,1,1,1,28,{'windows_virtual_machine': 28},{'europe-west3': 28}
+421ab9aeef2244cea704bf676248af0111,2022-06-03,1,1,1,180,{'windows_virtual_machine': 180},{'europe-west3': 180}
+44f5e70b7efc48b3aa982e01539c5401,2022-06-02,1,2,1,34324,"{'mac_virtual_machine': 13066, 'windows_virtual_machine': 21258}",{'us-west4': 34324}
+44f5e70b7efc48b3aa982e01539c5401,2022-06-03,1,2,1,33460,"{'mac_virtual_machine': 12996, 'windows_virtual_machine': 20464}",{'us-west4': 33460}
+44f5e70b7efc48b3aa982e01539c540111,2022-06-02,1,2,1,34324,"{'mac_virtual_machine': 13066, 'windows_virtual_machine': 21258}",{'europe-west3': 34324}
+44f5e70b7efc48b3aa982e01539c540111,2022-06-03,1,2,1,33460,"{'mac_virtual_machine': 12996, 'windows_virtual_machine': 20464}",{'europe-west3': 33460}
+4cc95cd249234be19f0509d96e269aa8,2022-06-02,1,1,2,17838,{'windows_virtual_machine': 17838},{'us-west4': 17838}
+4cc95cd249234be19f0509d96e269aa8,2022-06-03,1,1,2,17404,{'windows_virtual_machine': 17404},{'us-west4': 17404}
+4cc95cd249234be19f0509d96e269aa811,2022-06-02,1,1,2,17838,{'windows_virtual_machine': 17838},{'europe-west3': 17838}
+4cc95cd249234be19f0509d96e269aa811,2022-06-03,1,1,2,17404,{'windows_virtual_machine': 17404},{'europe-west3': 17404}
+51c17bc6c5d74d71a6f70619f4fa997f,2022-06-02,1,3,1,655658,"{'linux_virtual_machine': 6952, 'mac_virtual_machine': 301096, 'windows_virtual_machine': 347610}",{'us-west4': 655658}
+51c17bc6c5d74d71a6f70619f4fa997f,2022-06-03,1,3,1,653124,"{'linux_virtual_machine': 6824, 'mac_virtual_machine': 299668, 'windows_virtual_machine': 346632}",{'us-west4': 653124}
+51c17bc6c5d74d71a6f70619f4fa997f11,2022-06-02,1,3,1,655658,"{'linux_virtual_machine': 6952, 'mac_virtual_machine': 301096, 'windows_virtual_machine': 347610}",{'europe-west3': 655658}
+51c17bc6c5d74d71a6f70619f4fa997f11,2022-06-03,1,3,1,653124,"{'linux_virtual_machine': 6824, 'mac_virtual_machine': 299668, 'windows_virtual_machine': 346632}",{'europe-west3': 653124}
+57b1ce8700634eea8b0e8597c163c577,2022-06-02,1,1,1,18,{'android_virtual_machine': 18},{'us-west4': 18}
+57b1ce8700634eea8b0e8597c163c577,2022-06-03,1,1,1,46,{'android_virtual_machine': 46},{'us-west4': 46}
+57b1ce8700634eea8b0e8597c163c57711,2022-06-02,1,1,1,18,{'android_virtual_machine': 18},{'europe-west3': 18}
+57b1ce8700634eea8b0e8597c163c57711,2022-06-03,1,1,1,46,{'android_virtual_machine': 46},{'europe-west3': 46}
+71ee6929c3a84cd4a66d42f3d795e69e,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'us-west4': 18}
+71ee6929c3a84cd4a66d42f3d795e69e,2022-06-03,1,1,1,18,{'windows_virtual_machine': 18},{'us-west4': 18}
+71ee6929c3a84cd4a66d42f3d795e69e11,2022-06-02,1,1,1,18,{'windows_virtual_machine': 18},{'europe-west3': 18}
+71ee6929c3a84cd4a66d42f3d795e69e11,2022-06-03,1,1,1,18,{'windows_virtual_machine': 18},{'europe-west3': 18}
+72862aa44d6a489180b95fe2eb356c3c,2022-06-02,1,5,1,2728,"{'android_virtual_machine': 504, 'ios_virtual_machine': 978, 'linux_virtual_machine': 296, 'mac_virtual_machine': 410, 'windows_virtual_machine': 540}",{'us-west4': 2728}
+72862aa44d6a489180b95fe2eb356c3c,2022-06-03,1,5,1,1550,"{'android_virtual_machine': 364, 'ios_virtual_machine': 668, 'linux_virtual_machine': 72, 'mac_virtual_machine': 176, 'windows_virtual_machine': 270}",{'us-west4': 1550}
+72862aa44d6a489180b95fe2eb356c3c11,2022-06-02,1,5,1,2728,"{'android_virtual_machine': 504, 'ios_virtual_machine': 978, 'linux_virtual_machine': 296, 'mac_virtual_machine': 410, 'windows_virtual_machine': 540}",{'europe-west3': 2728}
+72862aa44d6a489180b95fe2eb356c3c11,2022-06-03,1,5,1,1550,"{'android_virtual_machine': 364, 'ios_virtual_machine': 668, 'linux_virtual_machine': 72, 'mac_virtual_machine': 176, 'windows_virtual_machine': 270}",{'europe-west3': 1550}
+7aaa7fbc110245e780913f3daa98a4bc,2022-06-02,1,3,1,16664,"{'android_virtual_machine': 5214, 'mac_virtual_machine': 6336, 'windows_virtual_machine': 5114}",{'us-west4': 16664}
+7aaa7fbc110245e780913f3daa98a4bc,2022-06-03,1,3,1,16812,"{'android_virtual_machine': 5178, 'mac_virtual_machine': 6334, 'windows_virtual_machine': 5300}",{'us-west4': 16812}
+7aaa7fbc110245e780913f3daa98a4bc11,2022-06-02,1,3,1,16664,"{'android_virtual_machine': 5214, 'mac_virtual_machine': 6336, 'windows_virtual_machine': 5114}",{'europe-west3': 16664}
+7aaa7fbc110245e780913f3daa98a4bc11,2022-06-03,1,3,1,16812,"{'android_virtual_machine': 5178, 'mac_virtual_machine': 6334, 'windows_virtual_machine': 5300}",{'europe-west3': 16812}
+7df751e4c88448bbbe4e60aa87acc50b,2022-06-02,1,1,1,8,{'windows_virtual_machine': 8},{'us-west4': 8}
+7df751e4c88448bbbe4e60aa87acc50b11,2022-06-02,1,1,1,8,{'windows_virtual_machine': 8},{'europe-west3': 8}
+7f3e2db5e1434ae685809d5d7ff3c63d,2022-06-03,1,1,1,60,{'windows_virtual_machine': 60},{'us-west4': 60}
+7f3e2db5e1434ae685809d5d7ff3c63d11,2022-06-03,1,1,1,60,{'windows_virtual_machine': 60},{'europe-west3': 60}
+84e17f5326934856b7c8577e08bf8a20,2022-06-02,1,2,1,74094,"{'mac_virtual_machine': 44694, 'windows_virtual_machine': 29400}",{'us-west4': 74094}
+84e17f5326934856b7c8577e08bf8a20,2022-06-03,1,2,1,52658,"{'mac_virtual_machine': 31076, 'windows_virtual_machine': 21582}",{'us-west4': 52658}
+84e17f5326934856b7c8577e08bf8a2011,2022-06-02,1,2,1,74094,"{'mac_virtual_machine': 44694, 'windows_virtual_machine': 29400}",{'europe-west3': 74094}
+84e17f5326934856b7c8577e08bf8a2011,2022-06-03,1,2,1,52658,"{'mac_virtual_machine': 31076, 'windows_virtual_machine': 21582}",{'europe-west3': 52658}
+90c623699ea34e83bd92973bc2da6227,2022-06-02,1,4,1,16504,"{'android_virtual_machine': 2286, 'ios_virtual_machine': 132, 'mac_virtual_machine': 10390, 'windows_virtual_machine': 3696}",{'us-west4': 16504}
+90c623699ea34e83bd92973bc2da6227,2022-06-03,1,4,1,7198,"{'android_virtual_machine': 1152, 'ios_virtual_machine': 66, 'mac_virtual_machine': 3376, 'windows_virtual_machine': 2604}",{'us-west4': 7198}
+90c623699ea34e83bd92973bc2da622711,2022-06-02,1,4,1,16504,"{'android_virtual_machine': 2286, 'ios_virtual_machine': 132, 'mac_virtual_machine': 10390, 'windows_virtual_machine': 3696}",{'europe-west3': 16504}
+90c623699ea34e83bd92973bc2da622711,2022-06-03,1,4,1,7198,"{'android_virtual_machine': 1152, 'ios_virtual_machine': 66, 'mac_virtual_machine': 3376, 'windows_virtual_machine': 2604}",{'europe-west3': 7198}
+c1bcea669c2e481482afd525f9705088,2022-06-02,1,1,1,118,{'windows_virtual_machine': 118},{'us-west4': 118}
+c1bcea669c2e481482afd525f970508811,2022-06-02,1,1,1,118,{'windows_virtual_machine': 118},{'europe-west3': 118}
+ccf745749760451abee5653edaabe163,2022-06-02,1,3,1,522,"{'android_virtual_machine': 28, 'mac_virtual_machine': 322, 'windows_virtual_machine': 172}",{'us-west4': 522}
+ccf745749760451abee5653edaabe16311,2022-06-02,1,3,1,522,"{'android_virtual_machine': 28, 'mac_virtual_machine': 322, 'windows_virtual_machine': 172}",{'europe-west3': 522}
+cd3b8b1f863048e4a88f2ad879bb3ca2,2022-06-02,1,1,1,1400,{'windows_virtual_machine': 1400},{'us-west4': 1400}
+cd3b8b1f863048e4a88f2ad879bb3ca2,2022-06-03,1,1,1,1372,{'windows_virtual_machine': 1372},{'us-west4': 1372}
+cd3b8b1f863048e4a88f2ad879bb3ca211,2022-06-02,1,1,1,1400,{'windows_virtual_machine': 1400},{'europe-west3': 1400}
+cd3b8b1f863048e4a88f2ad879bb3ca211,2022-06-03,1,1,1,1372,{'windows_virtual_machine': 1372},{'europe-west3': 1372}
+d4ec015aca20427e945cae852835d404,2022-06-02,1,1,1,31274,{'windows_virtual_machine': 31274},{'us-west4': 31274}
+d4ec015aca20427e945cae852835d404,2022-06-03,1,1,1,32890,{'windows_virtual_machine': 32890},{'us-west4': 32890}
+d4ec015aca20427e945cae852835d40411,2022-06-02,1,1,1,31274,{'windows_virtual_machine': 31274},{'europe-west3': 31274}
+d4ec015aca20427e945cae852835d40411,2022-06-03,1,1,1,32890,{'windows_virtual_machine': 32890},{'europe-west3': 32890}
+e88d1d7e4c924dcf9b34b9882819ae80,2022-06-02,1,1,2,64,{'linux_virtual_machine': 64},{'us-west4': 64}
+e88d1d7e4c924dcf9b34b9882819ae80,2022-06-03,1,1,2,32,{'linux_virtual_machine': 32},{'us-west4': 32}
+e88d1d7e4c924dcf9b34b9882819ae8011,2022-06-02,1,1,2,64,{'linux_virtual_machine': 64},{'europe-west3': 64}
+e88d1d7e4c924dcf9b34b9882819ae8011,2022-06-03,1,1,2,32,{'linux_virtual_machine': 32},{'europe-west3': 32}
+f5edca4299244355a288b2bd4f90589d,2022-06-03,1,2,1,132,"{'android_virtual_machine': 48, 'windows_virtual_machine': 84}",{'us-west4': 132}
+f5edca4299244355a288b2bd4f90589d11,2022-06-03,1,2,1,132,"{'android_virtual_machine': 48, 'windows_virtual_machine': 84}",{'europe-west3': 132}
+f986c485803845baa891d97c7b482e3e,2022-06-02,1,2,1,198,"{'android_virtual_machine': 154, 'windows_virtual_machine': 44}",{'us-west4': 198}
+f986c485803845baa891d97c7b482e3e,2022-06-03,1,2,1,90,"{'android_virtual_machine': 72, 'windows_virtual_machine': 18}",{'us-west4': 90}
+f986c485803845baa891d97c7b482e3e11,2022-06-02,1,2,1,198,"{'android_virtual_machine': 154, 'windows_virtual_machine': 44}",{'europe-west3': 198}
+f986c485803845baa891d97c7b482e3e11,2022-06-03,1,2,1,90,"{'android_virtual_machine': 72, 'windows_virtual_machine': 18}",{'europe-west3': 90}
+feaf82e0e5e44c76bf87e0d74b210de8,2022-06-02,1,2,1,21980,"{'android_virtual_machine': 11374, 'windows_virtual_machine': 10606}",{'us-west4': 21980}
+feaf82e0e5e44c76bf87e0d74b210de8,2022-06-03,1,2,1,21258,"{'android_virtual_machine': 11484, 'windows_virtual_machine': 9774}",{'us-west4': 21258}
+feaf82e0e5e44c76bf87e0d74b210de811,2022-06-02,1,2,1,21980,"{'android_virtual_machine': 11374, 'windows_virtual_machine': 10606}",{'europe-west3': 21980}
+feaf82e0e5e44c76bf87e0d74b210de811,2022-06-03,1,2,1,21258,"{'android_virtual_machine': 11484, 'windows_virtual_machine': 9774}",{'europe-west3': 21258}
+fee1b85694b7468fa524fb417929b576,2022-06-02,1,1,1,18128,{'windows_virtual_machine': 18128},{'us-west4': 18128}
+fee1b85694b7468fa524fb417929b576,2022-06-03,1,1,1,8982,{'windows_virtual_machine': 8982},{'us-west4': 8982}
+fee1b85694b7468fa524fb417929b57611,2022-06-02,1,1,1,18128,{'windows_virtual_machine': 18128},{'europe-west3': 18128}
+fee1b85694b7468fa524fb417929b57611,2022-06-03,1,1,1,8982,{'windows_virtual_machine': 8982},{'europe-west3': 8982}
